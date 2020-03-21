@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Eat pizza
+- Learn to code
+- Do math
