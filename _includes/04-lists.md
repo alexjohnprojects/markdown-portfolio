@@ -1,0 +1,3 @@
+- Eat pizza
+- Learn to code
+- Do math
